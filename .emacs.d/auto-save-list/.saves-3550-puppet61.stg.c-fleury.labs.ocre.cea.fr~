@@ -1,0 +1,4 @@
+/etc/puppet/environments/production/cccenv/modules/dummy/manifests/init.pp
+/etc/puppet/environments/production/cccenv/modules/dummy/manifests/#init.pp#
+/etc/puppet/environments/production/cccenv/sc.pp
+/etc/puppet/environments/production/cccenv/#sc.pp#

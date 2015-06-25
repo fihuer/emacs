@@ -1,0 +1,6 @@
+/etc/puppet/production/cccenv/sc.pp
+/etc/puppet/production/cccenv/#sc.pp#
+/etc/puppet/production/modules/http/manifests/site.pp
+/etc/puppet/production/modules/http/manifests/#site.pp#
+/etc/puppet/production/modules/nagios/manifests/init.pp
+/etc/puppet/production/modules/nagios/manifests/#init.pp#

@@ -1,0 +1,4 @@
+/etc/puppet/production/files/global/etc/httpd/conf.d/thruk.conf
+/etc/puppet/production/files/global/etc/httpd/conf.d/#thruk.conf#
+/etc/puppet/production/cccenv/sc.pp
+/etc/puppet/production/cccenv/#sc.pp#

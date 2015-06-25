@@ -1,0 +1,1 @@
+("/opt/puppet/" "~/emacs/.emacs.d/dash.el/" "~/")

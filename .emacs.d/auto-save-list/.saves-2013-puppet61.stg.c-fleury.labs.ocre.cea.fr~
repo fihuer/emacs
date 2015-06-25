@@ -1,0 +1,4 @@
+/etc/puppet/production/cccenv/sc.pp
+/etc/puppet/production/cccenv/#sc.pp#
+/etc/puppet/production/modules/lustre/manifests/init.pp
+/etc/puppet/production/modules/lustre/manifests/#init.pp#
